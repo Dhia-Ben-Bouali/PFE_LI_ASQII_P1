@@ -1,0 +1,67 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/add-user.png</file>
+        <file>images/ampoule.png</file>
+        <file>images/arrow.png</file>
+        <file>images/arrowheads-of-thin-outline-to-the-left.png</file>
+        <file>images/Asqii 1.png</file>
+        <file>images/Asqii 2.png</file>
+        <file>images/asqii.png</file>
+        <file>images/bandage.png</file>
+        <file>images/bidon.png</file>
+        <file>images/blister (1).png</file>
+        <file>images/blister.png</file>
+        <file>images/blister3.png</file>
+        <file>images/blood 3.png</file>
+        <file>images/cadenas.png</file>
+        <file>images/clock.png</file>
+        <file>images/compose.png</file>
+        <file>images/comptegoutte.png</file>
+        <file>images/delete-user.png</file>
+        <file>images/doctor.png</file>
+        <file>images/draw.png</file>
+        <file>images/drugs.png</file>
+        <file>images/drugs_inv.png</file>
+        <file>images/eye.png</file>
+        <file>images/fingerprint (1).png</file>
+        <file>images/fingerprint.png</file>
+        <file>images/flacon.png</file>
+        <file>images/flacons.png</file>
+        <file>images/flacons2.png</file>
+        <file>images/Group 26.png</file>
+        <file>images/healthcare.png</file>
+        <file>images/home.png</file>
+        <file>images/homeopathie.png</file>
+        <file>images/image.qrc</file>
+        <file>images/images.qrc</file>
+        <file>images/intrauterin.png</file>
+        <file>images/logout (1).png</file>
+        <file>images/loupe 1.png</file>
+        <file>images/panadol.png</file>
+        <file>images/pen.png</file>
+        <file>images/pills.png</file>
+        <file>images/plus.png</file>
+        <file>images/poche.png</file>
+        <file>images/potcomprimes.png</file>
+        <file>images/potgelule.png</file>
+        <file>images/profilecircle.png</file>
+        <file>images/question 1.png</file>
+        <file>images/refresh-button.png</file>
+        <file>images/remove.png</file>
+        <file>images/return (1).png</file>
+        <file>images/right-arrow (1).png</file>
+        <file>images/right-arrow.png</file>
+        <file>images/sachet.png</file>
+        <file>images/seringue.png</file>
+        <file>images/settings 1 .png</file>
+        <file>images/stock.png</file>
+        <file>images/suppositoire.png</file>
+        <file>images/syringe (1) 1.png</file>
+        <file>images/syringe 1.png</file>
+        <file>images/tube.png</file>
+        <file>images/user (1).png</file>
+        <file>images/user.png</file>
+        <file>images/user3.png</file>
+        <file>images/logo_asqii.png</file>
+    </qresource>
+</RCC>
